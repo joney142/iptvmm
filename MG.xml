@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="">
   <channel id="Alice2020">
     <display-name lang="en">Alice2020</display-name>
+    <url></url>
   </channel>
   <programme channel="Alice2020">
     <title lang="en">Alice 2020</title>
